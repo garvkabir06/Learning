@@ -21,3 +21,13 @@ while True:
     print(X + 2)
     if not X > 0:
         break
+
+#Break and continue statement
+
+i = int(input("enter the number"))
+
+for garv in range (1,10):
+    if garv == 0:
+       print(garv)
+       break
+
