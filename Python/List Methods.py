@@ -41,3 +41,8 @@ print(l7)
 k = l7.copy()
 print(k)
 
+# pop remove last item from list
+fruits = ["mango","apple","banana"]
+temp = fruits.pop(0)
+print(fruits)
+print(temp)
